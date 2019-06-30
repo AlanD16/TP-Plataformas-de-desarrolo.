@@ -1,0 +1,7 @@
+C:\Users\Nautcy\source\repos\TP Parte 3\TP Parte 3\bin\Debug\TP Parte 3.exe.config
+C:\Users\Nautcy\source\repos\TP Parte 3\TP Parte 3\bin\Debug\TP Parte 3.exe
+C:\Users\Nautcy\source\repos\TP Parte 3\TP Parte 3\bin\Debug\TP Parte 3.pdb
+C:\Users\Nautcy\source\repos\TP Parte 3\TP Parte 3\obj\Debug\TP Parte 3.csprojAssemblyReference.cache
+C:\Users\Nautcy\source\repos\TP Parte 3\TP Parte 3\obj\Debug\TP Parte 3.csproj.CoreCompileInputs.cache
+C:\Users\Nautcy\source\repos\TP Parte 3\TP Parte 3\obj\Debug\TP Parte 3.exe
+C:\Users\Nautcy\source\repos\TP Parte 3\TP Parte 3\obj\Debug\TP Parte 3.pdb

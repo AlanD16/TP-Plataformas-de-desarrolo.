@@ -1,0 +1,7 @@
+C:\Users\Nautcy\source\repos\TP Parte 1-D)\TP Parte 1-D)\bin\Debug\TP Parte 1-D).exe.config
+C:\Users\Nautcy\source\repos\TP Parte 1-D)\TP Parte 1-D)\bin\Debug\TP Parte 1-D).exe
+C:\Users\Nautcy\source\repos\TP Parte 1-D)\TP Parte 1-D)\bin\Debug\TP Parte 1-D).pdb
+C:\Users\Nautcy\source\repos\TP Parte 1-D)\TP Parte 1-D)\obj\Debug\TP Parte 1-D).csproj.CoreCompileInputs.cache
+C:\Users\Nautcy\source\repos\TP Parte 1-D)\TP Parte 1-D)\obj\Debug\TP Parte 1-D).exe
+C:\Users\Nautcy\source\repos\TP Parte 1-D)\TP Parte 1-D)\obj\Debug\TP Parte 1-D).pdb
+C:\Users\Nautcy\source\repos\TP Parte 1-D)\TP Parte 1-D)\obj\Debug\TP Parte 1-D).csprojAssemblyReference.cache
